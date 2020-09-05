@@ -16,7 +16,7 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
-        android:layout_height="100dp"
+        android:layout_height="50dp"
         app:srcCompat="@drawable/walmart_logo"
         />
     <Space
